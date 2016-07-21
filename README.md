@@ -12,6 +12,8 @@ These are related projects intended for other Berkeley students.
 
 [Hivemind](https://github.com/guoguo12/hivemind), EECS server tracker - Allen Guo
 
+[Genealogy](https://github.com/guoguo12/genealogy), EECS TA family tree - Allen Guo
+
 ## Non-UC Berkeley projects
 
 These projects are not campus related -- this is a chance to show off your project to the open source community at Berkeley, whether or not you want people to contribute :)
