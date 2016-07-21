@@ -8,8 +8,6 @@ To contribute, either add an Issue, and I'll add it to the list, or make pull re
 
 These are related projects intended for other Berkeley students.
 
-[Berkeley Scheduler](https://mDibyo.github.com/berkeley-scheduler) - Dibyo Majumdar 
-
 [Hivemind](https://github.com/guoguo12/hivemind), EECS server tracker - Allen Guo
 
 [Genealogy](https://github.com/guoguo12/genealogy), EECS TA family tree - Allen Guo
